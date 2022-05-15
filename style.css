@@ -1,0 +1,123 @@
+@charset "UTF-8";
+.container {
+    width: 100%;
+    background-color: #E3DFDC;
+    padding-top: 7px;
+}
+header  {
+    color: #412B14;
+    text-align: center;
+    font-size: 25px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+main article h3 {
+    background-color: #FAE5CB;
+    border-radius: 10px;
+    height: 40px;
+    padding-left: 12px;
+    line-height: 40px;
+    font-size: x-large;
+    text-align: center;
+    color: #6B4821;
+    width: 99%;
+}
+.image {
+}
+footer p a:link {
+    color: #583111;
+}
+main article a:link {
+    color: #412B14;
+}
+footer p a:visited {
+    color: #000000;
+}
+article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+h4 {
+    font-size: x-large;
+}
+main article a:visited {
+	color: #E3BA9C;
+}
+main article a:hover {
+	color: #E09C65;
+	font-size: large;
+}
+footer p a:hover {
+    color: #AA5F22;
+    font-size: large;
+}
+footer {
+    background-color: #ACACAC;
+    padding-bottom: 2px;
+    padding-top: px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+}
+.imagesource {
+}
+main article p {
+    font-size: large;
+}
+ul {
+    font-size: large;
+}
+.introduction {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding-bottom: 10px;
+    flex-direction: column;
+    background-position: center center;
+    background-size: cover;
+    background-image: url(background.jpg);
+    height: 600px;
+}
+.video {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    margin-bottom: 20px;
+    text-align: left;
+    font-weight: 800;
+    height: 380px;
+}
+.history {
+    font-size: x-large;
+    flex: 1;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    height: 200px;
+    text-align: center;
+}
+.club {
+    font-size: x-large;
+    flex: 1;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    height: 200px;
+}
+.other {
+    background-color: #C5BABB;
+    display: flex;
+    height: 300px;
+    padding-top: 18px;
+}
+h1 {
+}
